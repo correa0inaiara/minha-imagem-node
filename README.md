@@ -15,4 +15,6 @@ Contém um servidor em Node e Express rodando dentro de uma imagem do node:14.17
 O servidor, index.js, apenas contém um servidor escutando na porta 3000.
 
 # Docker Hub
-[Link da Imagem no Docker Hub](https://hub.docker.com/r/ncorrea001/minha-imagem-node-prod)
+Links para as Imagens no Docker Hub
+[Minha Imagem Node Prod](https://hub.docker.com/r/ncorrea001/minha-imagem-node-prod)
+[Minha Imagem Node (com o banco MYSQL)](https://hub.docker.com/r/ncorrea001/minha-imagem-node)
